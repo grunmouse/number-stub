@@ -1,0 +1,7 @@
+dependencies:
+  '@grunmouse/multioperator': 'link:../multioperator'
+  '@grunmouse/multioperator-ariphmetic': 'link:../multioperator-ariphmetic'
+lockfileVersion: 5.1
+specifiers:
+  '@grunmouse/multioperator': 'link:..\multioperator'
+  '@grunmouse/multioperator-ariphmetic': 'link:..\multioperator-ariphmetic'
