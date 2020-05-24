@@ -9,6 +9,9 @@ const {
 const NumberStub = require('./number-stub.js');
 const EqNumberStub = require('./eq-number-stub.js');
 
+/**
+ * Определение арифметических операций над заглушками
+ */
 
 [
 	add, 
